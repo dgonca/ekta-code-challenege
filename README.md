@@ -1,5 +1,5 @@
-# Ekta Code Challenge
-Thanks for applying to Ekta for the Junior Developer position. Here's a code challenge to make sure that your skills fit into the role we would need you to perform in. 
+# Ekta Code Challenge 2021
+Thanks for applying to Ekta for the Junior Developer position. Here's a code challenge to make sure that your skills fit into the role we would need you to perform in.
 Please fork this repo, answer the questions in the answers.js file included in this repo, push your changes and email us with the repo's url.
 
 Thank you. If you have any questions please email dev@ekta.co.
@@ -11,7 +11,7 @@ Thank you. If you have any questions please email dev@ekta.co.
           )
           .filter(q => q.mrLevel == this.currentQuestion.mrLevel)
           .some( q => q.currentAnswer == "No")`
-          
+
 
 ### #2 What is this code doing?
 
